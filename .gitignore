@@ -1,0 +1,19 @@
+# Go build files
+bin/
+*.exe
+*.out
+
+# OS files
+.DS_Store
+
+# env files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
